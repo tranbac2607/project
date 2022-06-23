@@ -1,0 +1,35 @@
+@import './login.scss';
+@import './react-toggle.scss';
+
+.p-1 {
+    padding: 1rem
+}
+
+.m-1 {
+    margin: 1rem
+}
+
+.mb-1 {
+    margin-bottom: 1rem
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.h-100 {
+    height: 100vh;
+}
+
+.flex-justify-content-center {
+    width: 100%;
+    display: 'flex' !important;
+    justify-content: center;
+}
+
+.flex-justify-content-center-align-items-center {
+    width: 100%;
+    display: 'flex';
+    justify-content: center;
+    align-items: center;
+}
